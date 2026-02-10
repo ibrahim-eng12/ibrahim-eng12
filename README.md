@@ -38,10 +38,10 @@ const ibrahim = {
     funFact: "I debug with console.log and I'm not ashamed 😄",
     
     skills: {
-        frontend: ["React", "Next.js", "HTML5", "CSS3", "JavaScript", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "Python", "Django", "PHP", "Laravel"],
-        database: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
-        tools: ["Git", "Docker", "VS Code", "Postman", "Figma"],
+        frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
+        backend: ["Laravel", "Python", "Django", "PHP"],
+        database: ["MySQL", "MongoDB"],
+        tools: ["Git", "Docker", "VS Code", "Postman"],
     },
     
     motto: "Code. Create. Repeat. 🔁"
