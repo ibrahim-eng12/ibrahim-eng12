@@ -47,5 +47,6 @@ const ibrahim = {
     motto: "Code. Create. Repeat. 🔁"
 };
 
+```
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:00D9FF&height=120&section=footer" width="100%"/>
