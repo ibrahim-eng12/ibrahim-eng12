@@ -1,60 +1,48 @@
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ibrahim+Al-Harasis;FullStack+Developer;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:00D9FF&height=220&section=header&text=Ibrahim%20Al-Harasis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Line%20at%20a%20Time&descSize=18&descAlignY=55&descAlign=50" />
 </div>
 
----
-
-### 🧑‍💻 About Me
-
-- 🔭 I'm a **FullStack Developer** based in **Amman, Jordan**
-- 🌐 Check out my portfolio: [himacode.com](https://himacode.com/public/ibrahim-alharasis/)
-- 💡 Passionate about building web applications and solving real-world problems
-- 📫 How to reach me: Feel free to connect!
-
----
-
-### 🛠️ Tech Stack
-
+<!-- Animated Intro -->
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <a href="https://himacode.com/public/ibrahim-alharasis/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%9A%80+FullStack+Developer+from+Jordan;%F0%9F%92%A1+Turning+Ideas+into+Digital+Reality;%E2%9A%A1+Clean+Code+%7C+Modern+UI+%7C+Scalable+Backend" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<br/>
 
-### 📊 GitHub Stats
-
+<!-- Quick Info Badges -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-eng12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-eng12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <a href="https://himacode.com/public/ibrahim-alharasis/"><img src="https://img.shields.io/badge/🌐_Portfolio-himacode.com-6C63FF?style=for-the-badge&labelColor=0d1117" /></a>
+  <img src="https://img.shields.io/badge/📍_Based_in-Amman,_Jordan-00D9FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💼_Role-FullStack_Developer-FF6C63?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=ibrahim-eng12&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-eng12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<br/>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🌐 Connect With Me
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himacode.com/public/ibrahim-alharasis/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahim-eng12&color=6C63FF&style=flat-square" alt="Profile Views"/>
-</div>
+```js
+const ibrahim = {
+    name: "Ibrahim Al-Harasis",
+    role: "FullStack Developer",
+    location: "Amman, Jordan 🇯🇴",
+    portfolio: "https://himacode.com/public/ibrahim-alharasis/",
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log and I'm not ashamed 😄",
+    
+    skills: {
+        frontend: ["React", "Next.js", "HTML5", "CSS3", "JavaScript", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "Python", "Django", "PHP", "Laravel"],
+        database: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
+        tools: ["Git", "Docker", "VS Code", "Postman", "Figma"],
+    },
+    
+    motto: "Code. Create. Repeat. 🔁"
+};
