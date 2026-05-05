@@ -5,7 +5,7 @@
 
 <!-- Animated Intro -->
 <div align="center">
-  <a href="https://himacode.com/public/ibrahim-alharasis/">
+  <a href="https://himacode.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%9A%80+FullStack+Developer+from+Jordan;%F0%9F%92%A1+Turning+Ideas+into+Digital+Reality;%E2%9A%A1+Clean+Code+%7C+Modern+UI+%7C+Scalable+Backend" alt="Typing SVG" />
   </a>
 </div>
@@ -14,7 +14,7 @@
 
 <!-- Quick Info Badges -->
 <div align="center">
-  <a href="https://himacode.com/public/ibrahim-alharasis/"><img src="https://img.shields.io/badge/🌐_Portfolio-himacode.com-6C63FF?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="https://himacode.com"><img src="https://img.shields.io/badge/🌐_Portfolio-himacode.com-6C63FF?style=for-the-badge&labelColor=0d1117" /></a>
   <img src="https://img.shields.io/badge/📍_Based_in-Amman,_Jordan-00D9FF?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/💼_Role-FullStack_Developer-FF6C63?style=for-the-badge&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=ibrahim-eng12&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
